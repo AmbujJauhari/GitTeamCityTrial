@@ -10,4 +10,9 @@ public class TCTest {
     public void testTeamCity() {
         TestCase.assertTrue(1 == 1);
     }
+
+    @Test
+    public void testTeamCity2() {
+        TestCase.assertTrue(1 == 1);
+    }
 }
