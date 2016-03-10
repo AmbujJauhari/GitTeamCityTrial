@@ -7,7 +7,7 @@ import org.junit.Test;
 public class TCTest {
 
     @Test
-    public void testTeamCity() {
+    public void testTeamCity2() {
         TestCase.assertTrue(1 == 1);
     }
 }
