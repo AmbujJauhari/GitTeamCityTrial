@@ -6,10 +6,11 @@ import org.junit.Test;
 /**
  * Created by Aj on 11-03-2016.
  */
-public class TCTest1 {
+public class FeatureTest {
 
     @Test
-    public void testTeamCity2() {
+    public void run_this_test_for_me() {
+        System.out.println("in test 2");
         TestCase.assertTrue(1 == 1);
     }
 }
