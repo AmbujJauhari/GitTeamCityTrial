@@ -6,7 +6,7 @@ import org.junit.Test;
 /**
  * Created by Aj on 18-03-2016.
  */
-public class FeatureTestBranch1 {
+public class Ftb1Test {
 
     @Test
     public void feature_test_from_branch1() {
